@@ -3,5 +3,45 @@
         "name": "Speed Stars",
         "slug": "speed-stars",
         "image": "/cache/data/image/game/speed-stars/speed-stars-m186x186.webp"
+    },
+    {
+        "name": "100 Meters Race",
+        "slug": "100-meters-race",
+        "image": "/cache/data/image/game/100-meters-race/100-meters-race-m186x186.webp"
+    },
+    {
+        "name": "Sports Hero",
+        "slug": "sports-hero",
+        "image": "/cache/data/image/game/sports-hero/sports-hero-m186x186.webp"
+    },
+    {
+        "name": "Athletic Runners: Idle Clicker",
+        "slug": "athletic-runners-idle-clicker",
+        "image": "/cache/data/image/game/athletic-runners-idle-clicker/athletic-runners-idle-clicker-m186x186.webp"
+    },
+    {
+        "name": "Soccer Skills 2 World Cup",
+        "slug": "soccer-skills-2-world-cup",
+        "image": "/cache/data/image/game/soccer-skills-2-world-cup/soccer-skills-2-world-cup-m186x186.webp"
+    },
+    {
+        "name": "WheelJumper",
+        "slug": "wheeljumper",
+        "image": "/cache/data/image/game/wheeljumper/wheeljumper-m186x186.webp"
+    },
+    {
+        "name": "Goalheads.io",
+        "slug": "goalheads-io",
+        "image": "/cache/data/image/game/goalheads-io/goalheads-io-m186x186.webp"
+    },
+    {
+        "name": "Sprint Race",
+        "slug": "sprint-race",
+        "image": "/cache/data/image/game/sprint-race/sprint-race-m186x186.webp"
+    },
+    {
+        "name": "Blocky Runner",
+        "slug": "blocky-runner",
+        "image": "/cache/data/image/game/blocky-runner/blocky-runner-m186x186.webp"
     }
 ]
